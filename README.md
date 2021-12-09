@@ -3,7 +3,7 @@ this repo is the implementation of [Luong Attention](https://arxiv.org/abs/1508.
 - We conducted English-to-German translation experiments using English and German bilingual references from the [Multi30k](http://www.statmt.org/wmt16/multimodal-task.html#task1) dataset.
 - The formula for the attentional mechanism is as follows(sorry for without notion):
 
-![formula.png](formula.png)
+![formula.png](./formula.png)
 ## See our procedure in Notebook
 see [experiment.ipynb](./experiment.ipynb)
 
